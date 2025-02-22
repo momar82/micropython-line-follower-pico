@@ -46,7 +46,7 @@ This step-by-step guide will help you build a **black-line follower robot** with
 ## 🎯 Getting Started
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/micropython-line-follower-pico.git
+   git clone https://github.com/momar82/micropython-line-follower-pico.git
    cd micropython-line-follower-pico
    ```
 2. **Follow the step-by-step tutorials** in the `docs/` folder.
