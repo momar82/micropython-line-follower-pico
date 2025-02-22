@@ -26,7 +26,9 @@ This step-by-step guide will help you build a **black-line follower robot** with
 🔹 **Ultrasonic Sensor** (for obstacle avoidance)  
 🔹 **16x2 LCD Display (I2C)**  
 🔹 **LEDs, Buttons, Potentiometer**  
-🔹 **2x 3.7V Li-ion Batteries + Power Module**  
+🔹 **2x 3.7V Li-ion Batteries + Battery Holder with Jack Head**  
+🔹 **Breadboard**  
+🔹 **Breadboard Power Module**  
 🔹 **Chassis: Cardboard or Foam Board**  
 
 ---
